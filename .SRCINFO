@@ -1,0 +1,17 @@
+pkgbase = ascii-design
+	pkgdesc = Ascii Design is an ascii-art program based on figlet engine.
+	pkgver = 1.0.2
+	pkgrel = 1
+	url = http://ascii-design.sourceforge.net/
+	arch = i686
+	arch = x86_64
+	license = GPL
+	makedepends = cmake
+	depends = qt4
+	depends = figlet
+	depends = figlet-fonts
+	source = http://sourceforge.net/projects/ascii-design/files/ascii-design/Ascii-Design%201.0.2/ascii-design-1.0.2.tar.bz2
+	md5sums = 67fc4bda1f3acbd3c8962ef6fb860db4
+
+pkgname = ascii-design
+

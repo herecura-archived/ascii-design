@@ -2,7 +2,7 @@
 
 pkgname=ascii-design
 pkgver=1.1.1
-pkgrel=1
+pkgrel=2
 pkgdesc="Ascii Design is an ascii-art program based on figlet engine."
 arch=("i686" "x86_64")
 url="http://ascii-design.sourceforge.net/"
